@@ -18,10 +18,12 @@ Este projeto é uma solução do desafio [Single price grid component challenge 
 
 ## Resultado
 Desktop:
+
 ![Meu resultado do desafio - versão desktop](./design/resultado-desktop.png)
 ![Botão hover](./design/botão-hover.gif)
 
 Mobile:
+
 ![Meu resultado do desafio - versão mobile](./design/resultado-mobile.png)
 
 ## Meu processo
