@@ -1,4 +1,4 @@
-##### [Readme in Portuguese version](./README-eng.md)
+##### [Readme in Portuguese version](./README.md)
 
 # Frontend Mentor - Single price grid component
 This project is the solution to the challenge [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) from the website Frontend Mentor. 
