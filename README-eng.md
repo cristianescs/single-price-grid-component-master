@@ -7,9 +7,9 @@ This project is the solution to the challenge [Single price grid component chall
 - [The Challenge](#the-challenge)
 - [Result](#result)
 - [My process](#my-process)
-  - [Desenvolvido com](#desenvolvido-com)
-  - [O que eu aprendi](#o-que-eu-aprendi)
-- [Autora](#autora)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
 ## The Challenge
 
